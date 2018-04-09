@@ -8,10 +8,14 @@
 }
 
 .App-header {
-  background-color: #222;
+  /* background-color: #222; */
+  /* background-color: #dd4b39; */
+  /* //http://www.colorzilla.com/gradient-editor/ */
+  /* background: radial-gradient(ellipse at center, #ff7400 32%,#ff7400 99%,#ff7400 99%); */
+  background-color: rgba(219, 68, 55, 1);
   height: 150px;
   padding: 20px;
-  color: white;
+  color: rgba(41, 31, 30, 1);   /* white;*/
 }
 
 .App-title {

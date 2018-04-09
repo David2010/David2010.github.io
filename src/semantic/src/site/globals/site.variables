@@ -1,0 +1,19 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@primaryColor   : @red;
+@secondaryColor : @grey;
+@red            : rgba(163, 51, 61, 1);
+@orange         : rgba(219, 68, 55, 1);
+@yellow         : #FFD700;
+@olive          : #32CD32;
+@green          : #016936;
+@teal           : #008080;
+@blue           : rgba(71, 121, 152, 1);
+@violet         : #EE82EE;
+@purple         : #B413EC;
+@pink           : #FF1493;
+@brown          : #A52A2A;
+@grey           : rgba(196, 214, 176, 1);
+@black          : rgba(41, 31, 30, 1);
