@@ -1,0 +1,10 @@
+site_name: IT
+nav:
+    - Digitial Transformation: index.md
+    - Data Strategy: datastrategy.md
+    - DevOps: devops.md
+    - Microservice(Design): microservice.md
+    - Security: security.md
+    - Programming: programming.md
+
+theme: readthedocs
