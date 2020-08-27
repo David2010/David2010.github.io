@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Information and Communication Technology
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+The core technology of IT is **computing**, **networking** and **storage**. 
 
-## Commands
+Since data and information is important to businesses and people, we need to consider **security**: integrity, availability and confidentiality. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+These are Infrastructure.
 
-## Project layout
+The nex layer of IT is about **application infrastructure**.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Due to lots of apps and systems, we need to manage them with ITSM etc
+
+To manage and control software develpment, **DevOps** is evoled over time.

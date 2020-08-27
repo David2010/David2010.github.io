@@ -1,10 +1,19 @@
 site_name: IT
+repo_url: https://github.com/david2010/david2010.github.io
 nav:
-    - Digitial Transformation: index.md
-    - Data Strategy: datastrategy.md
+    - Digital Transformation: index.md
+    - Data:
+        - Data Strategy: data/datastrategy.md
+        - Data Technology: data/datatechnology.md
     - DevOps: devops.md
     - Microservice(Design): microservice.md
     - Security: security.md
-    - Programming: programming.md
+    - Programming:
+        - powershell: dev/powershell.md
+        - C#: dev/csharp.md
+        - Summary: dev/compare.md
+theme:
+    name: mkdocs
+    include_sidebar: false
 
-theme: readthedocs
+

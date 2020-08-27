@@ -1,4 +1,4 @@
-# what business issues you want to resolve
+# What business questions do you want to answer?
 
 # elements of your big data transformation
 
