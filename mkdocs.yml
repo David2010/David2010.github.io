@@ -1,5 +1,5 @@
 site_name: IT
-repo_url: https://github.com/david2010/david2010.github.io
+# repo_url: https://github.com/david2010/david2010.github.io
 nav:
     - Digital Transformation: index.md
     - Data:
@@ -7,7 +7,9 @@ nav:
         - Data Technology: data/datatechnology.md
     - DevOps: devops.md
     - Microservice(Design): microservice.md
-    - Security: security.md
+    - Security:
+        - Infrastructure Security: infra.md
+        - OAuth2: security/oauth2.md
     - Programming:
         - powershell: dev/powershell.md
         - C#: dev/csharp.md

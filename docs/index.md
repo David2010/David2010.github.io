@@ -10,4 +10,4 @@ The nex layer of IT is about **application infrastructure**.
 
 Due to lots of apps and systems, we need to manage them with ITSM etc
 
-To manage and control software develpment, **DevOps** is evoled over time.
+To manage and control software develpment, **DevOps** is ......
